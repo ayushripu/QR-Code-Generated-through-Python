@@ -12,7 +12,7 @@ This script generates a QR code that links to my GitHub profile:
 
 ---
 
-## 📋 Table of Contents   
+## 📋 Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
